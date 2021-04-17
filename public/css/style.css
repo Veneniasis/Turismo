@@ -1,0 +1,25 @@
+.navbar-brand{
+    font-weight: bold;
+}
+
+#navbarNav{
+    font-weight: bold;
+}
+
+footer{
+    font-weight: bold;
+    background-color:rgb(88, 193, 235);
+    vertical-align: middle;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+.contactoFooter{
+    margin-top: 15px;
+}
+
+.recuadro{
+    background-color: crimson;
+}
